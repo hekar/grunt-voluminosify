@@ -1,1 +1,1 @@
-module.exports = require('./lib/transformers.js');
+module.exports = require('./src/transformers.js');
